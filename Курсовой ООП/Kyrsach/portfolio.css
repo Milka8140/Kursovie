@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+body{
+margin-bottom: 10px;
+}
+
+header {
+display: flex;
+justify-content: center;
+align-items: center;   
+}
+
+header div{
+box-sizing: border-box;
+background-color:#92FFF8;
+height: 100px;
+width: 1000px;
+text-align: center;
+font-size: 48px;
+border-radius: 30px;
+padding: 20px;
+border: 1px solid black;
+}
+
+p{
+text-align: center;
+font-size: 32px;
+margin-top: 30px;
+}
+
+img{
+display: inline;
+height: 250px;
+width: auto;
+margin-top: 40px;
+border-radius: 30px;
+}
+.f1, .f2, .f3, .f4{
+margin-left: 150px;
+}
